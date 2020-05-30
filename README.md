@@ -1,5 +1,5 @@
 # NKC Neighborhoods
-Class Project 2
+
 
 * NKC Neighborhoods is an app that makes buying and selling houses easier by taking real estate agents out of the equation.  This app allows sellers the opportunity to advertise their listings they way they'd like, to a specific audience, and all without having to pay for it .  Likewise, it gives buyers the ability to search for homes within a certain community.  Essentially, NKC Neighborhoods is a classified advertisement service that is devoted to finding and listing homes for sale, specifically in the North Kansas City Area.
 
@@ -12,7 +12,8 @@ Class Project 2
         * The average rating for the schools in the area.
         * The number of Top 3 schools in the area.
         * The name of the Top Rated school in the area.
-
+* Technologies Used:
+    * JavaScript, CSS, HTML, Handlebars, MySQL, Sequelize, Firebase, Express, Node.js, Materialize, Bootstrap
 # Live Demo: 
 
 https://projectdeux.herokuapp.com/
